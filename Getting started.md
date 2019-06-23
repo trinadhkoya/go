@@ -46,3 +46,7 @@
     
 # Week #6
     Data Structures and Algorithms Basics
+    
+    
+  Excerise problems can be given to the students from https://gobyexample.com/ this .
+  This covers all the examples 
