@@ -1,8 +1,8 @@
 # Introduction
-Develoment Environment (IDE set up)
-Why Go and Basic Concepts 
-Installation of Go and IDE Set up
-Basic Programme Structure
+- Develoment Environment (IDE set up)
+- Why Go and Basic Concepts 
+- Installation of Go and IDE Set up
+- Basic Programme Structure
 
 # Basic Concepts
     - Data Types
